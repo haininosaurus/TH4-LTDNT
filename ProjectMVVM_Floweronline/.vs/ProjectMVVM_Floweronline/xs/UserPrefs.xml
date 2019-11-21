@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CF7A5485-D102-4763-A31D-F32E875B4631}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProjectMVVM__Floweronline.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ProjectMVVM__Floweronline FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectMVVM_Floweronline/Views/PageInsertLoaiHoa.xaml">
+    <Files>
+      <File FileName="ProjectMVVM_Floweronline/App.xaml.cs" Line="8" Column="43" />
+      <File FileName="ProjectMVVM_Floweronline/Views/PageInsertLoaiHoa.xaml" Line="28" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectMVVM_Floweronline" expanded="True">
+            <Node name="ProjectMVVM_Floweronline" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="PageInsertLoaiHoa.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProjectMVVM__Floweronline.iOS FirstBuild="True" />
+</Properties>
